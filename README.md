@@ -72,10 +72,7 @@ Cybersecurity Enthusiast
 
 
 ---
-
-## 🌐 License
-
-This project is open-source under the [MIT License](LICENSE).
+comment if u want the paid version with more looks
 ```
 
 Let me know if you'd like this pre-filled with your GitHub username or repo name.
